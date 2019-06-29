@@ -349,8 +349,8 @@ class Header {
    */
   static get toolbox() {
     return {
-      icon: '<svg width="11" height="14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M7.6 8.15H2.25v4.525a1.125 1.125 0 0 1-2.25 0V1.125a1.125 1.125 0 1 1 2.25 0V5.9H7.6V1.125a1.125 1.125 0 0 1 2.25 0v11.55a1.125 1.125 0 0 1-2.25 0V8.15z"/></svg>',
-      title: 'Header'
+      icon: '<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M13.9089 17H12.7422V11.8333C12.7422 10.1667 11.9256 9.5 10.5756 9.5C9.07555 9.5 7.40888 10.4333 7.40888 12.5V17H6.24222V4.5H7.40888V9.5L7.24222 10.5833H7.40888C7.99222 9.5 9.07555 8.5 10.9089 8.5C12.9922 8.5 13.9089 9.66667 13.9089 11.8333V17ZM17.823 5.16666H18.573V17H17.323V7.33333H15.2396V6.58333H16.2396C17.1563 6.58333 17.6563 6.33333 17.823 5.16666Z" fill="#212132"/></svg>',
+      title: 'header'
     };
   }
 }
